@@ -4,3 +4,4 @@ Rencana konten baru
   - PHP
   - Java Script
   - React JS
+  - Laravel
