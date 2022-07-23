@@ -5,5 +5,7 @@ Rencana konten baru
   - Java Script
   - React JS
   - Fundametal struktur data
-  - rencana framework laravel
-  - rencana angular
+  - rencana view
+  - phyton
+  - rencana belajar framework
+
