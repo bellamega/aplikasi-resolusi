@@ -5,3 +5,4 @@ Rencana konten baru
   - Java Script
   - React JS
   - Laravel
+  - Fundametal struktur data
