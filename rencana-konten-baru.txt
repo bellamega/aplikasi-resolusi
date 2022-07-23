@@ -8,3 +8,4 @@ Rencana konten baru
   - Fundametal struktur data
   - rencana view
   - phyton
+  - rencana belajar framework
