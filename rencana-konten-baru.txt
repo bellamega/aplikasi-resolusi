@@ -4,5 +4,6 @@ Rencana konten baru
   - PHP
   - Java Script
   - React JS
-  - Laravel
   - Fundametal struktur data
+  - rencana framework laravel
+  - rencana angular
