@@ -6,3 +6,6 @@ Rencana konten baru
   - React JS
   - Laravel
   - Fundametal struktur data
+  - rencana view
+  - phyton
+  - rencana belajar framework
